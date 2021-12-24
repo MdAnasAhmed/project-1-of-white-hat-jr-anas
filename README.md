@@ -1,1 +1,1 @@
-# project-1-of-white-hat-jr-anas
+# Tablet-SPCK-PRO-C26-Project-Template
